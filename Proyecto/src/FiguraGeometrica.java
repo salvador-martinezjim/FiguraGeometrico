@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 public class FiguraGeometrica{
-    private String color;
+    protected String color;
     private boolean relleno;
     private LocalDate fechaCreacion;
 
